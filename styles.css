@@ -17,3 +17,8 @@
 .background2 {
     background-color: grey;
 }
+
+body {
+    color: blue;
+    font-family: 'Ranchers', cursive;
+}
